@@ -24,4 +24,4 @@ def total_salary(path):
 
         return f"Загальна сума заробітної плати: {salary_sum}$, Середня заробітна плата: {salary_avg}$"
 
-print(total_salary('slary_file.txt'))
+print(total_salary('salary_file.txt'))
